@@ -1,0 +1,39 @@
+<!Doctype html>
+<html>
+<head>
+    <meta charset= "UTF-8">
+    <title>Food Menu</title>   
+</head>
+<style>
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+}
+    
+#box {
+  background-color: blue;
+  padding: 10px 10px 10px 10px;    
+}
+    
+#content {
+  background-color: salmon;
+}
+    
+h1 {
+ margin-bottom: 30px;
+ color: black;
+ }
+
+</style>
+<body>
+<h1>Restaraunt Menu Layout</h1>  
+    
+<div id="box">
+    <div id="content">Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+    </div>
+
+</body>   
+</html>
+
